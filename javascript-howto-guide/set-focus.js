@@ -1,0 +1,1 @@
+document.querySelector('#myInput').focus();
