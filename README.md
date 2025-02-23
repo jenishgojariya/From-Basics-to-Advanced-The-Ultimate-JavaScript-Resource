@@ -11,8 +11,8 @@ Supercharge your coding skills with this curated collection of practical, ready-
 
 <p align="center">
   <a href="#table-of-contents"><img src="https://img.shields.io/badge/Explore%20Now-Click%20Me-brightgreen?style=for-the-badge" alt="Explore Now Button"></a>
-  <a href="https://github.com/yourusername/your-repo/stargazers"><img src="https://img.shields.io/github/stars/yourusername/your-repo?style=social" alt="Stars"></a>
-  <a href="https://github.com/yourusername/your-repo/fork"><img src="https://img.shields.io/github/forks/yourusername/your-repo?style=social" alt="Forks"></a>
+  <a href="https://github.com/jenishgojariya/your-repo/stargazers"><img src="https://img.shields.io/github/stars/jenishgojariya/your-repo?style=social" alt="Stars"></a>
+  <a href="https://github.com/jenishgojariya/your-repo/fork"><img src="https://img.shields.io/github/forks/jenishgojariya/your-repo?style=social" alt="Forks"></a>
 </p>
 
 ---
@@ -75,14 +75,14 @@ Browse through our neatly organized snippets—each one links directly to its co
 - **Community-Driven**: Contribute and make it yours!
 
 <p align="center">
-  <a href="https://github.com/yourusername/your-repo/issues"><img src="https://img.shields.io/badge/Contribute-Now-blue?style=for-the-badge" alt="Contribute Button"></a>
+  <a href="https://github.com/jenishgojariya/your-repo/issues"><img src="https://img.shields.io/badge/Contribute-Now-blue?style=for-the-badge" alt="Contribute Button"></a>
 </p>
 
 ---
 
 ## 🚀 Get Started
 
-1. **Clone the Repo**: `git clone https://github.com/yourusername/your-repo.git`
+1. **Clone the Repo**: `git clone https://github.com/jenishgojariya/your-repo.git`
 2. **Explore Snippets**: Dive into the `javascript-howto-guide/` folder.
 3. **Star & Share**: Love it? Give us a ⭐ and spread the word!
 
@@ -91,7 +91,7 @@ Browse through our neatly organized snippets—each one links directly to its co
 ## 🤝 Contribute
 
 Spotted a bug? Got a killer snippet? We’d love your input!  
-👉 [Open an Issue](https://github.com/yourusername/your-repo/issues) or [Submit a PR](https://github.com/yourusername/your-repo/pulls)
+👉 [Open an Issue](https://github.com/jenishgojariya/your-repo/issues) or [Submit a PR](https://github.com/jenishgojariya/your-repo/pulls)
 
 ---
 
